@@ -4,7 +4,8 @@ A software project using ROS.
 
 <h3>Dependencies</h3>
 <li>ROS</li>
-<li>Gazebo</li>
+<li>OpenCV</li>
+<li>RViz</li>
 
 <h3>Setup</h3>
 <code>git clone https://github.com/luluhtutt/todo360.git</code><br>
