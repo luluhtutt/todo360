@@ -1,6 +1,6 @@
 <h1>todo 360</h1>
 
-A software project using ROS.
+A simulation of a robot head that can swivel 360 degrees to observe surroundings.
 
 <h3>Dependencies</h3>
 <li>ROS</li>
